@@ -13,7 +13,7 @@ rdata mens tipo valor
 
 inc ite
 print ite
-if(ite >= 1000)
+if(ite >= 10000)
    stop
 end
 
